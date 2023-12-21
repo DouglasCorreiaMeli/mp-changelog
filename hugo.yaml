@@ -1,0 +1,9 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Mercado Pago For Woo
+theme: PaperMod
+params:
+    homeInfoParams:
+        Title: Release Notes 📑
+        Content: Release notes are your compass through the evolving landscape of our Mercado Pago plugin for WooCommerce. Dive into the changelog to discover the latest updates, improvements, and bug fixes that empower your e-commerce experience. Understanding the significance of each change ensures you harness the full potential of our plugin, ensuring a smooth and enhanced transaction journey for you and your customers. 
+    ShowReadingTime: true
